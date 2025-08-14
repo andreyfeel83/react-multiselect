@@ -2,10 +2,9 @@
 
 This is a test React project demonstrating a reusable **Multiselect dropdown component** with search functionality, multiple selection, and option removal.
 
-
 ---
 
-## Features
+## ✨ Features
 
 - Select multiple options from a dropdown
 - Search/filter options
@@ -17,31 +16,26 @@ This is a test React project demonstrating a reusable **Multiselect dropdown com
 
 ---
 
-## Technologies
+## 🛠 Technologies
 
-- React 18+  
-- TypeScript  
-- Vite  
-- Tailwind CSS  
-- Fetch API  
-
+- React 18+
+- TypeScript
+- Vite
+- Tailwind CSS
+- Fetch API
 
 ---
 
-## Setup & Installation
-
-1. **Clone the repository**
+## 🚀 Installation & Setup
 
 ```bash
-git clone https://github.com/andreyfeel83/react-multiselect
+# 1. Clone the repository
+git clone https://github.com/andreyfeel83/react-multiselect.git
 cd react-multiselect
-Install dependencies
 
-bash npm install
-# or
-yarn
-Run the development server
+# 2. Install dependencies
+npm install
 
-bash npm run dev
-# or
-yarn dev
+# 3. Run the development server
+npm run dev
+```

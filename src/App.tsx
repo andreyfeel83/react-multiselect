@@ -1,7 +1,7 @@
 import {useEffect, useState} from 'react';
-import {Loader} from './components/Loader';
-import {Multiselect, type Option} from './components/Multiselect';
-import {fetchTimezones} from './utils/fetchTimezones';
+import {Multiselect, type Option} from '@/components/Multiselect';
+import {fetchTimezones} from '@/utils/fetchTimezones';
+import { Loader } from '@/components/Loader';
 
 export const App = () => {
   const [options, setOptions] = useState<Option[]>([]);

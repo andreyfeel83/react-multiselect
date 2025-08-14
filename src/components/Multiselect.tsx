@@ -1,6 +1,6 @@
 import {useMemo, useState} from 'react';
-import arrow from '../assets/arrow.svg';
-import xcircle from '../assets/xcircle.svg';
+import arrow from '@/assets/arrow.svg';
+import xcircle from '@/assets/xcircle.svg';
 
 export interface Option {
   label: string;
